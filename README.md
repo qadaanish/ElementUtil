@@ -51,3 +51,9 @@ Add Selenium dependencies in your pom.xml (if using Maven):
 
 With ElementUtil, you just focus on test logic — the boilerplate WebDriver code is already handled.
 
+
+# Example Code (with custom colors)
+
+![Code Example](code-example.png)
+
+
