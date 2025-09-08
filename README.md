@@ -39,3 +39,15 @@ accecptJSAlert(timeout)
 dismissJSAlert(timeout)
 getTextJSAlert(timeout)
 enterValJsAlert(timeout, value)
+
+**Installation**
+Add Selenium dependencies in your pom.xml (if using Maven):
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.21.0</version>
+</dependency>
+
+
+With ElementUtil, you just focus on test logic — the boilerplate WebDriver code is already handled.
+
